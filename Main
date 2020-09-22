@@ -1,0 +1,17 @@
+<html>
+
+<head> 
+<title> Dante's Webpage </title>
+</head>
+
+<body>
+<h3> Hello, my name is Dante Caines </h3>
+<br>
+
+<p>I play a lot of games, so i made a table listing some of my favourite games</p>
+
+<br>  
+<br>
+
+<table width=500 border=1>      
+<tr><td>1</td><td>Destiny 2</td></tr>
